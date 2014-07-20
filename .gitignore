@@ -1,36 +1,23 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
+.Rproj.user
+.Rhistory
+.RData
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must ends with two \r.
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+*.Rproj
+inst/docs
+inst/apps/oecd
+inst/apps/notebook0
+inst/apps/notebook2
+inst/apps/strikeouts
+inst/apps/nvd3app/
+inst/rChart3.html
+inst/apps/notebook/www/ex
+inst/test-d3timeline.html
+inst/apps/notebook/www/example2.*
+TODOs.md
+inst/shinymaptab
+inst/x512paths
+inst/gh-pages
+inst/livecoding
+inst/d3timeline
+tests
+.cache
